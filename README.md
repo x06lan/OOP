@@ -2,11 +2,13 @@ Welcome to the course website of OOP 2021 fall. The source code we wrote in the 
 
 ### Week 2 9/19 - Get Started with the HelloWolrd Examples to be Familiar with Unit Test
 
-Suggesting reading : following links & [Slide](https://css-gitlab.csie.ntut.edu.tw/109000000/oop2021f/-/blob/master/0.%20Course%20Material/OOP_Week_2.pdf) & CH 2
+Suggesting reading : Slieds in MS teams & CH 2
+
+Homework : Follow the slides to setup environment (09/23 24:00) & Sumbit code to gitlab (09/30 24:00)
 
 ### Week 1 - Introduction & Environment 
 
-Setup Suggesting reading : CH 1
+Setup Suggesting reading : following links & CH 1
 
 In this semester, 3 things will be given to assist you in your future career.
 - [How To Solve It](http://htsicpp.blogspot.com/2014/08/introducing-how-to-solve-it-cpp.html) (Proposed by George Pólya)
