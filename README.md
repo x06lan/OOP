@@ -16,18 +16,9 @@ We will solve a few problems together through the practices of "How To Solve It"
 - carrying out the plan
 - looking back
 
-**Problem** Ask users to input two vectors and give the inner product. We are requied tell the user whether to continue and stop.
+**Problem I** Let v a n-dimensional vector. Write a program to calculate its length | v |.
 
-      [1, 0] · [1, 1] = 1,
-      [1, 1, 0] · [0, 1, 1] = 1, and
-      [1, 0] · [1, 1, 0] => undefined.
-
-**Our plan** [Inner product, round 1](http://htsicpp.blogspot.com/2014/08/inner-product-round-1.html)
-
-**C++ (version 11)**
-
-- Namespace
-- [String Class](https://www.cplusplus.com/reference/string/string/?kw=string)
+If you're not familiar with vector, read [here](https://en.wikipedia.org/wiki/Vector_space).
 
 ### Week 2 9/19 - Get Started with the HelloWolrd Examples to be Familiar with Unit Test
 
