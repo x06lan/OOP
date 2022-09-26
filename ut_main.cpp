@@ -1,6 +1,7 @@
 #include <gtest/gtest.h>
 #include "ut_length.h"
 #include "ut_helloworld.h"
+#include "ut_mathvector.h"
 
 int main(int argc, char **argv)
 {

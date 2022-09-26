@@ -1,3 +1,5 @@
+#ifndef LENGTH
+#define LENGTH
 #include <cmath>
 #include "MathVector.h"
 
@@ -33,3 +35,15 @@ double length(MathVector m)
     }
     return sqrt(sum);
 }
+double dot(MathVector v1, MathVector v2)
+{
+    if (v1.getDim() != v2.getDim())
+        return -1;
+    double sum = 0;
+    for (int i = 0; i < v1.getDim(); i++)
+    {
+        sum += v1.getIndex(i) * v2.getIndex(i);
+    }
+    return sum;
+}
+#endif

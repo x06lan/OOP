@@ -1,3 +1,6 @@
+#ifndef MATH_VECTOR
+#define MATH_VECTOR
+
 #include <cmath>
 
 class MathVector
@@ -9,6 +12,8 @@ public:
     // Constructor
     MathVector() // default constructor
     {
+        _dim = 0;
+        _arr = NULL;
     }
     MathVector(int dim, double *arr)
     {
@@ -19,7 +24,8 @@ public:
             _arr[i] = arr[i];
         }
     }
-    int getDim() // getter
+    // getter
+    int getDim()
     {
         return _dim;
     }
@@ -27,4 +33,15 @@ public:
     {
         return _arr[i];
     }
+    double length()
+    {
+        double sum = 0;
+        for (int i = 0; i < _dim; i++)
+        {
+            sum += pow(_arr[i], 2);
+        }
+        return sqrt(sum);
+    }
 };
+
+#endif
