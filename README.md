@@ -1,6 +1,10 @@
 Welcome to the course website of OOP 2022 fall. The source code we wrote in the class will be available here. You can check history tab on the top of this page to see the content of each week. Notably, the teaching materials and methods are credited to Prof. Yu Chin Cheng at CSIE, NTUT. For any inquires, please email shchen@ntut.edu.tw with title [物件導向程式設計]_姓名_學號_班級. Formal format is required in the email.
 
-### Week 2 9/23 - 
+### Week 3 9/26 - Dedining a member function for class
+
+Suggesting reading : CH 6
+
+### Week 2 9/23 - Knowning class & constructor with the MathVector example
 
 Reference
 - Text book
