@@ -4,7 +4,7 @@ Welcome to the course website of OOP 2022 fall. The source code we wrote in the 
 
 ### Week 3 9/30 - 
 
-Suggesting reading : CH 7.1 * CH 8.1
+Suggesting reading : CH 7.1 & CH 8.1
 
 **Problem III** Undefined cases of inner product.
 
