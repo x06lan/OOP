@@ -2,11 +2,11 @@ Welcome to the course website of OOP 2022 fall. The source code we wrote in the 
 
 **Link to Homework: http://140.124.183.78/gitlab/109000000/oop2022f_hw**
 
-### Week 3 9/30 - 
+### Week 3 9/30 - Handling exception
 
 Suggesting reading : CH 7.1 & CH 8.1
 
-**Problem III** Undefined cases of inner product.
+**Problem III** Let _v_ be a n-dimensional vector and _a_ be a real number. Write a program to calculate its scalar multiplication _a_ _v_.
 
 **Problem IV** Let _u_, _v_ be n-dimensional vectors. Write a program to calculate add u to v to obtain _u_ + _v_
 
