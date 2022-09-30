@@ -1,8 +1,40 @@
 Welcome to the course website of OOP 2022 fall. The source code we wrote in the class will be available here. You can check history tab on the top of this page to see the content of each week. Notably, the teaching materials and methods are credited to Prof. Yu Chin Cheng at CSIE, NTUT. For any inquires, please email shchen@ntut.edu.tw with title [物件導向程式設計]_姓名_學號_班級. Formal format is required in the email.
 
+**Link to Homework: http://140.124.183.78/gitlab/109000000/oop2022f_hw**
+
+### Week 3 9/30 - 
+
+Suggesting reading : CH 7.1 * CH 8.1
+
+**Problem III** Undefined cases of inner product.
+
+**Problem IV** Let _u_, _v_ be n-dimensional vectors. Write a program to calculate add u to v to obtain _u_ + _v_
+
+**Problem V** Let _u_, _v_ be n-dimensional vectors and _a_, _b_ be real numbers. Write a program to calculate _a_ _u_ + _b_ _v_
+
+- Handle exception
+- Pointer
+  - *a, a[], &a
+- runtime model of program
+  - data, text, stack, heap
+- memory allocation/deallocation from heap
+  - new operator: allocating space from heap
+  - delete operator: de-allocating space from heap
+  - memory leak: allocated space NOT de-allocated when it's done used
+
+Quick notice : Next year, we will have huge reudction (down to 10 peoples) in accepting people on joining this course. Please pass this year!
+
 ### Week 3 9/26 - Dedining a member function for class
 
 Suggesting reading : CH 6
+
+**Problem II** Deriving the inner product of two vector.
+
+      [1, 0] · [1, 1] = 1,
+      [1, 1, 0] · [0, 1, 1] = 1, and
+      [1, 0] · [1, 1, 0] => undefined.
+
+**The plan** [Inner product, round 1](http://htsicpp.blogspot.com/2014/08/inner-product-round-1.html)
 
 ### Week 2 9/23 - Knowning class & constructor with the MathVector example
 
